@@ -4,7 +4,7 @@ datePublished: Mon Jul 08 2024 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clyh4s782000t0ajze7erg44v
 slug: unlock-the-power-of-automation-a-beginners-guide-to-shell-scripting
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720693730699/c12794ee-3581-4da0-8100-efaea5549c9f.jpeg
-tags: devops, shell-script, devops-articles, devops-journey, 90daysofdevops, 90daysofdevops-devops-projectdevelopment-nonitbackground-github-docker-cloudplatforms-ec2-aws-elasticbeanstalk-lambdafunctions-devopspipelines-terraform-jenkins-docker-devsecops-scm-git-gitlab-bitbucket-buildtools-griddle-maven-ant-msbuild-monitoringtools-prometheus-grafana-ansible-ai-chatgpt-valueaddition-realworldproblems, 90daysofdevopschallenge, tws, devopscommunity
+tags: devops, shell-script, devops-articles, devops-journey, 90daysofdevops, 90daysofdevopschallenge, tws, devopscommunity
 
 ---
 
@@ -36,7 +36,7 @@ Imagine you have a personal assistant. You give them tasks, and they carry them 
 3. **Write Your First Script**: Start with a simple script. Open your text editor and type the following:
     
     ```bash
-    shCopy code#!/bin/bash
+    #!/bin/bash
     echo "Hello, World!"
     ```
     
